@@ -7,7 +7,8 @@ A small code golf event for the 42 C Piscine: solve each exercise in valid C usi
 - `ex00` is a guided example.
 - `ex01`-`ex04` contain a `main.c`, reference implementation, expected output, and test script.
 - Write your entry in `solution.c`. It must compile with `-Wall -Wextra -Werror` and match the expected output exactly.
-- The shortest working solution wins. Creative use of the C standard library is welcome. Fell free to change the function signatures but keep the test case output intact. 
+- The shortest working solution wins. Creative use of the C standard library is welcome. 
+- Feel free to change the function signatures (you will need to change it in main.c aswell) but keep the test case output intact. 
 
 Run an exercise from its directory:
 
